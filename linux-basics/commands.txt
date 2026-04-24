@@ -1,0 +1,10 @@
+Basic Linux Commands Learned
+
+whoami → shows current user
+pwd → shows current directory
+ls → list files and folders
+cd → move between folders
+mkdir → create new folder
+touch → create new file
+rm → delete file
+clear → clear terminal
